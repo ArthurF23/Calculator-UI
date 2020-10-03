@@ -1,0 +1,2 @@
+C:\Users\apple\Documents\Code\C++\Calculator_GUI\Debug\Calculator_GUI.exe.lastcodeanalysissucceeded
+C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Debug\NativeCodeAnalysis.read.1.tlog
