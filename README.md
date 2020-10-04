@@ -1,5 +1,5 @@
 # Calculator-UI
-C++ calculator UI using window's UI things.
+C++ calculator UI using window's UI things. (32-bit)
 
 EXE file is in Debug folder, have fun.
 
