@@ -5,4 +5,4 @@ EXE file is in Debug folder, have fun.
 
 Feel free to critique my code.
 
-The Calculator is very bare bones and have an issue when there are too many numbers. Otherwise it works but does lack a couple features that would make it slightly more user friendly.
+There is a bug that says VCRUNTIME140D.dll was not found, and im currently trying to fix it.
