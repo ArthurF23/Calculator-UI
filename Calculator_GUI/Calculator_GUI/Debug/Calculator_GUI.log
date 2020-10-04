@@ -1,9 +1,1 @@
-﻿  Calculator_GUI.cpp
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(88,2): warning C4091: 'static ': ignored on left of 'NUM_IDE' when no variable is declared
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(164,20): warning C4101: 'err': unreferenced local variable
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(88,2): warning C4091: 'static ': ignored on left of 'NUM_IDE' when no variable is declared
-  Calculator_GUI.vcxproj -> C:\Users\apple\Documents\Code\C++\Calculator_GUI\Debug\Calculator_GUI.exe
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(90): warning C26812: The enum type 'NUM_IDE' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(529): warning C6054: String 'text' might not be zero-terminated.
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(533): warning C6054: String 'res_t' might not be zero-terminated.
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(550): warning C6054: String 'pres' might not be zero-terminated.
+﻿  Calculator_GUI.vcxproj -> C:\Users\apple\Documents\Code\C++\Calculator_GUI\Debug\Calculator_GUI.exe
