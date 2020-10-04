@@ -1,4 +1,5 @@
 ﻿  Calculator_GUI.cpp
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(88,2): warning C4091: 'static ': ignored on left of 'NUM_IDE' when no variable is declared
-C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(176,20): warning C4101: 'err': unreferenced local variable
+C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(141,2): warning C4091: 'static ': ignored on left of 'NUM_IDE' when no variable is declared
+C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(229,20): warning C4101: 'err': unreferenced local variable
+C:\Users\apple\Documents\Code\C++\Calculator_GUI\Calculator_GUI\Calculator_GUI.cpp(563,13): warning C4101: 'msg': unreferenced local variable
   Calculator_GUI.vcxproj -> C:\Users\apple\Documents\Code\C++\Calculator_GUI\Debug\Calculator_GUI.exe
